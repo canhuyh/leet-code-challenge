@@ -1,1 +1,1 @@
-// Import the file to hot reload
+import "./challenges/wtf";
