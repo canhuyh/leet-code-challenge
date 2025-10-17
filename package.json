@@ -1,7 +1,7 @@
 {
-  "name": "leet-code",
+  "name": "leet-code-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Archive my LeetCode challenges",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "tsc",
     "start": "node dist/main.js"
   },
-  "author": "",
+  "author": "canhuyh",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.10.0",
